@@ -1,6 +1,6 @@
 # karte.usem.drue
 
-Ein minimalistisches One Pager Portfolio für raumbezogene Daten und architektonische Kartografie. Das Projekt präsentiert fünf ausgewählte Kartografie Arbeiten in einem stark reduzierten, weissraum-lastigen Design. 
+Ein minimalistisches One Pager Portfolio für raumbezogene Daten und architektonische Kartografie. Das Projekt präsentiert ausgewählte Kartografie Arbeiten in einem stark reduzierten, weissraum-lastigen Design. 
 
 ## Features
 * **Architektonisches Design:** Klarer Fokus auf den Inhalt durch den Einsatz der Schriftart Space Grotesk und grosszügigen Weissraum.
